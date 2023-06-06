@@ -9,7 +9,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
 
     Vou fornecer um exemplo de como foi usado o Git LFS para a pasta "Libary" e "Assets" nesse projeto, juntamente com um exemplo de texto, instruindo as pessoas a instalarem as bibliotecas necessárias e configurarem a pasta "Libary" e "Assets".
 
-1° Foi configurando o Git LFS para a pasta "Libary" e "Assets"
+1° Foi configurando o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente.
 
     //Inicializar o Git LFS
     git lfs install
@@ -18,8 +18,6 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     git lfs track "libary/*"
     git lfs track "Assets/*"
     
-    Esses comandos configurarão o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente.
-
 2° Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo para configurar o ambiente corretamente: 
 
     ## Pré-requisitos

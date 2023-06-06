@@ -18,7 +18,7 @@ Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma 
     git lfs track "libary/*"
     git lfs track "Assets/*"
     
-Esses comandos configurarão o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente.
+    Esses comandos configurarão o Git LFS para rastrear os arquivos na pasta "libary", "assets" e armazená-los externamente.
 
 2° Este é o meu projeto incrível que requer algumas bibliotecas para funcionar corretamente. Siga as etapas abaixo para configurar o ambiente corretamente: 
 

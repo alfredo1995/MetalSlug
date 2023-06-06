@@ -1,5 +1,4 @@
 # MetalSlug
-Desenvolvido um jogo no estilo Metal Slug em Unity.
 
 Esse jogo e capaz de armazenar e exibir muita informação simultaneamente. Uma grande quantidade de animações, explosões exageradas, muitos elementos em tela e grandes inimigos. O game também conta com seu estilo de humor que torna até as mortes dos inimigos um pouco cômicas.
 
